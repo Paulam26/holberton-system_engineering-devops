@@ -1,0 +1,2 @@
+#!/bin/bash
+ch mod u+x hello
