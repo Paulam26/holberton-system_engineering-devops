@@ -1,2 +1,2 @@
 #!/bin/bash
-ch mod u+x hello
+chmod u+x hello
